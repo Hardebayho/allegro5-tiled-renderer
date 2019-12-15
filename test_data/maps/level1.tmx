@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="75" height="40" tilewidth="16" tileheight="16" nextobjectid="4">
+ <tileset firstgid="1" name="Bricks" tilewidth="16" tileheight="16" tilecount="8" columns="4">
+  <image source="../tilesets/bricks.png" width="64" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="collide" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="collide" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="collide" value="true"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="collide" value="true"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="collide" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="collide" value="true"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="collide" value="true"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="collide" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="9" name="Backgrounds" tilewidth="16" tileheight="16" tilecount="24" columns="6">
+  <image source="../tilesets/backgrounds.png" width="96" height="64"/>
+ </tileset>
+ <layer name="Sky" width="75" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAMBKFb37/hyugCCaumqqqqqqqqqqqqqqrPD383aXk=
+  </data>
+ </layer>
+ <layer name="Clouds" width="75" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2EsOwyAMBcBco9/0/qdsFsmmapAr3ELJjOQlNhIKT2GaOJr7UvNaj6R+e322WRlzWrgsdV3rltRvr882K2MO0JfTS53bbock38y4UrZG1/eUv7UZV/pmStkaIX/hvdp76Ehq76Ffcq5x/3SuEdnvACPLfgdgXP7rPiOD4kbLIICeyKM4eQQAAAC09gT5Ngdi
+  </data>
+ </layer>
+ <layer name="Background 1" width="75" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt0DsKgEAMBNC9gYr4uf9JTZNybYQssu/BVFNMSGsAAAAAAMCMlsj20q2dPrteDwAAMKN79AE/cUTOyFW8uxfvfZV/ylT/CwBGegB0DQFs
+  </data>
+ </layer>
+ <layer name="Background 2" width="75" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzbENADAIA0EmSMj+y4YVKJAo7qRv7QgAAAAAAAAAAABgo1tl9QY/zuA2AHR92bcAPw==
+  </data>
+ </layer>
+ <layer name="Blocks 1" width="75" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt19sKgCAQRVHTbv//xfnQkzga6XjBvWBIIiY7VqAxAAAAAAAAgD4njAGMzwlHYAVbh0KZy9fdexKTOHydvScxCbLKc5lKXY/x7Up9c+8JsDLpu4udH/H7Sf37S9i3arPCeFbW6GQV9tRaj1as0ckq1lNrTVoIc6r1DFLPP/f6sr/usb+fqciKrMiKrEarB8ZAAkM=
+  </data>
+ </layer>
+ <layer name="Blocks 2" width="75" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt0LkJADAQA8FL/PRfsa8E4cQYZkC52CoAAAAAACCxevv1iU+M3nx94hNa5bTKaZXTKqdVTisAAAC4dwA74QBd
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="1" gid="4" x="32" y="320" width="16" height="16"/>
+  <object id="2" gid="4" x="64" y="320" width="16" height="16"/>
+  <object id="3" gid="4" x="112" y="496" width="16" height="16"/>
+ </objectgroup>
+</map>

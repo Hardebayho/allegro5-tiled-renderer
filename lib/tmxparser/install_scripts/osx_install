@@ -1,0 +1,3 @@
+brew install zlib
+brew install doxygen
+brew install git-lfs

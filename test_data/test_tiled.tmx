@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="120" height="48" tilewidth="32" tileheight="32" nextobjectid="21">
+ <tileset firstgid="1" source="test.tsx"/>
+ <layer name="The tiles" width="120" height="48">
+  <data encoding="base64" compression="zlib">
+   eJztmNtRwzAQRdNDCNBAwuMfWoB/aAEaAFI/+6PBZHZlyXpYks+ZuZOJHEmWV3vXym4HAAAAAAAAAAAAAAAAADDPk+h57ZuAYryIXjOPyZ4Zm5A9wx4YmxK+AQAAAAAA4INz5tiUOmem7hv2Xduk7hv+3/hjL7oSHUTXohvRbeE5ya96HEUn0Z3oXvQgeiw8J/kF8J830bvSPrL/bsnnP0SfSvvI/ju6z6+Rm6lsKedSWSM3Q/DFMCTnrFqzNVqNb6pvWrVma7Qa36X0WG9K0nN8NQ/OsZ6R6rv1PHqoX6U8eKR3aiu+LdevFA+e6zuav2vxLb3GGG/I7cFzfXuuVxraekqvMcYbWvaRpdT0kNr7dR+hnn3S+c4S/8kZk9rxPUaoZ590vrO2/9R4jlYuau3Wb93nktqd+7zju4fWfKfG+ciaI6b2L3mvd7/Nfd7x3UNrvlPjfBSTv1q7L6djx/4SfYt+ROeZ75fXQsc8T8ZKVcj8rt26bvVJ0XTMmPzV2n05HTt2aHy15+sb04pJrtj65nft1nWrT4qmY/4ClSx4TA==
+  </data>
+ </layer>
+ <objectgroup name="Collision">
+  <object id="1" x="94" y="1342" width="514" height="68"/>
+  <object id="2" x="-2" y="1406" width="98" height="128"/>
+  <object id="3" x="540" y="1408" width="68" height="66"/>
+  <object id="4" x="606" y="1472" width="512" height="64"/>
+  <object id="5" x="1120" y="1248" width="192" height="64"/>
+  <object id="6" x="864" y="1152" width="192" height="64"/>
+  <object id="7" x="640" y="1248" width="192" height="64"/>
+  <object id="8" x="1376" y="1248" width="192" height="64"/>
+  <object id="9" x="1600" y="1472" width="192" height="64"/>
+  <object id="10" x="1888" y="1408" width="192" height="64"/>
+  <object id="11" x="2176" y="1312" width="192" height="64"/>
+  <object id="12" x="2432" y="1312" width="192" height="64"/>
+  <object id="14" x="2624" y="1472" width="416" height="64"/>
+  <object id="15" x="3040" y="1024" width="192" height="448"/>
+  <object id="16" x="3232" y="1248" width="160" height="64"/>
+  <object id="17" x="3232" y="1472" width="672" height="64"/>
+  <object id="18" x="3328" y="960" width="192" height="64"/>
+  <object id="19" x="3584" y="864" width="192" height="64"/>
+ </objectgroup>
+</map>

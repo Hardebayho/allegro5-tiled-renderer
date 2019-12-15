@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxColor.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxColor.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxColor.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxEllipse.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxEllipse.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxEllipse.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxGroupLayer.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxGroupLayer.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxGroupLayer.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxImage.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxImage.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxImage.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxImageLayer.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxImageLayer.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxImageLayer.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxLayer.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxLayer.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxLayer.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxMap.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxMap.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxMap.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxObject.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxObject.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxObject.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxObjectGroup.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxObjectGroup.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxObjectGroup.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxPolygon.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxPolygon.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxPolygon.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxPolyline.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxPolyline.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxPolyline.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxProperty.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxProperty.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxProperty.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxPropertySet.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxPropertySet.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxPropertySet.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxTerrain.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTerrain.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTerrain.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxTerrainArray.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTerrainArray.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTerrainArray.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxText.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxText.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxText.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxTile.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTile.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTile.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxTileset.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTileset.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTileset.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxTileLayer.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTileLayer.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTileLayer.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxTileOffset.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTileOffset.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxTileOffset.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/TmxUtil.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxUtil.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/TmxUtil.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/base64/base64.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/base64/base64.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/base64/base64.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/c++  -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -std=gnu++11 -o CMakeFiles/tmxparser.dir/src/tinyxml2.cpp.o -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/tinyxml2.cpp",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/tinyxml2.cpp"
+},
+{
+  "directory": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build",
+  "command": "/usr/bin/cc -DUSE_MINIZ -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/include -I/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/include    -pedantic -Wall -Werror=strict-prototypes -Werror=old-style-definition -Werror=missing-prototypes -o CMakeFiles/tmxparser.dir/src/miniz.c.o   -c /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/miniz.c",
+  "file": "/home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/miniz.c"
+}
+]

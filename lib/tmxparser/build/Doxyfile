@@ -1,0 +1,8 @@
+PROJECT_NAME = "tmxparser"
+PROJECT_NUMBER = ""
+OUTPUT_DIRECTORY = /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/build/doc
+INPUT = /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/doc /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/README.md /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/CHANGELOG.md
+EXCLUDE = /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/src/miniz.c
+USE_MDFILE_AS_MAINPAGE = /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/README.md
+EXAMPLE_PATH = /home/hardebayho/Gamez/Allegro5TiledRenderer/Allegro5TiledRenderer/tmxparser/examples
+JAVADOC_AUTOBRIEF = YES
